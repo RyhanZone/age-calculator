@@ -103,7 +103,7 @@ body{
 }
 .parent > .input-side {
     display:flex;
-    gap: 20px;
+    gap: 11px;
 }
 
 .parent > .input-side > .input-side-child >  input{
@@ -125,7 +125,7 @@ body{
 }
 
 .parent > .input-side > .input-side-child> p{
-   font-size: 22px;
+    font-size: 14px;
     margin-left: 5px;
     margin-bottom: 5px;
     letter-spacing: 4px;
